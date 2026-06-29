@@ -97,6 +97,6 @@ python watch_cartpole.py
 
 ## 后续规划
 
-- [ ] 阶段二:连续控制任务(HalfCheetah / Hopper)
+- [x] 阶段二:连续控制任务(HalfCheetah / Hopper)
 - [ ] 阶段三:双足 / 四足机器人步态学习(Walker2d / Ant)
 - [ ] 阶段四:自定义任务与奖励设计、域随机化
